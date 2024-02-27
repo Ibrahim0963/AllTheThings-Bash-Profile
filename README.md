@@ -1,5 +1,15 @@
-# AllTheThings-Bash-Profile
+# How to install
+
 AllTheThings-Bash-Profile
+- Installation
+```
+cd ~/ && wget https://raw.githubusercontent.com/Ibrahim0963/AllTheThings-Bash-Profile/main/AllTheThings-bash.bashrc && cat AllTheThings-bash.bashrc >> .bashrc
+```
+
+- To install the necessary tools for the above bash profile:
+```
+wget https://raw.githubusercontent.com/Ibrahim0963/BugBountyBashProfile/main/bb_tools.sh && bash bb_tools.sh
+```
 
 ## Available Commands:
 ```
