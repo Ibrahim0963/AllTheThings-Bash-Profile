@@ -38,8 +38,15 @@ my_todo
 ![image](https://github.com/Ibrahim0963/AllTheThings-Bash-Profile/assets/48016716/f0816b2e-ab87-4d58-949a-0e0b93c77623)
 
 
+# To do:
+- my_wifi_pentesting
+- my_windowspriv
+- my_iot_pentesting
+- my_stegno
+- my_network_pentesting
+- my_active_directory_pentesting
 
-
+Comming soon!
 
 
 
