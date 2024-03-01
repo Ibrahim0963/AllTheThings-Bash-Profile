@@ -49,10 +49,6 @@ mybash(){
 mousepad ~/.bashrc
 }
 
-myburpsuite(){
-cd /home/ibrahim/Desktop/bugbounty/tools/burpsuite/ && bash runburp.sh &
-}
-
 myassetsubfinder(){ # Finish! / subdomains
 assetfinder="assetfinder.txt"
 subfinder="subfinder.txt"
