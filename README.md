@@ -1,6 +1,6 @@
 # How to install
 
-AllTheThings-Bash-Profile
+AllTheThings-Bash-Profile 
 - Installation
 ```
 cd ~/ && wget https://raw.githubusercontent.com/Ibrahim0963/AllTheThings-Bash-Profile/main/AllTheThings-bash.bashrc && cat AllTheThings-bash.bashrc >> .bashrc
