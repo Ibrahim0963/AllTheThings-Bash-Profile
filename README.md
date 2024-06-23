@@ -12,6 +12,12 @@ wget https://raw.githubusercontent.com/Ibrahim0963/BugBountyBashProfile/main/bb_
 ```
 
 ## Available Commands:
+
+![image](https://github.com/Ibrahim0963/AllTheThings-dotbashrc/assets/48016716/cd30d691-1f86-470c-99cc-d199de5db262)
+
+
+
+## Available Commands:
 ```
 my_bugbounty_commands
 my_methodology
